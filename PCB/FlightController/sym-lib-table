@@ -1,0 +1,8 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ICM-42688-P") (type "KiCad") (uri "/home/likusss/Documents/KiCAD symbols/ICM-42688-P/ICM-42688-P.kicad_sym") (options "") (descr ""))
+	(lib (name "BMP581") (type "KiCad") (uri "/home/likusss/Documents/KiCAD symbols/BOSCH BMP581/BMP581.kicad_sym") (options "") (descr ""))
+	(lib (name "SKY13330-397LF") (type "KiCad") (uri "/home/likusss/Documents/KiCAD symbols/SKY13330-397LF/SKY13330-397LF.kicad_sym") (options "") (descr ""))
+	(lib (name "GRF2243") (type "KiCad") (uri "/home/likusss/Documents/KiCAD symbols/GRF2243/GRF2243.kicad_sym") (options "") (descr ""))
+	(lib (name "GRF5504") (type "KiCad") (uri "/home/likusss/Documents/KiCAD symbols/GRF5504/GRF5504.kicad_sym") (options "") (descr ""))
+)
